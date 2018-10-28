@@ -1,0 +1,73 @@
+
+<doctype! html>
+<html>
+<head>
+<title>SCH-World's best multispeciality hospital</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<style>
+a:link{text-color:transparent;}
+i.fa-home
+{font-size:24px;}
+header,footer
+{text-align:center;
+ color:white;
+ background-color:#3b5998;
+padding:0.5em;
+}
+.button
+{text-align:center;
+cursor:pointer;
+ color:white;
+ background-color:#4CAF50;
+padding:2.5px 2.5px;
+position:relative;}
+.button1{
+top:-50px;
+left:430px;
+}
+.button2{top:-50px;
+left:440px;}
+.button3{padding:8px 0;
+top:8px;
+height:38px;}
+.button4,.button5,.button6,.button7,.button8,.button9,.button10
+{padding:10px 26px;}
+.button3{width:90px;}
+.button4{width:250px;}
+.button5{width:160px;}
+.butten7{width:160px;}
+.button8{width:160px;}
+.button9{width:240px;}
+.button10{width:310PX;}
+</style>
+<body style="background-color:whitesmoke;">
+<header>
+<img src="sc2.png" align="left" height="110" width="160">
+<h1>STARLING CITY HOSPITAL</h1>
+<a href="log.html" target="f"><button class="button button1">Log In</button></a>
+<a href="login.html" target="f"><button class="button button2">Sign Up</button></a>
+</header>
+<a href="Main_page.html" target="f"><button class="button button3"  ><i class="fa fa-home"></i></button></a>
+<a href="accopd.html" target="f"><button class="button button4" >OPD SHEDULE PAGE</button></a>
+<a href="service.html" target="f"><button class="button button5" >SERVICES</button></a>
+<a href="contactus.html" target="f"><button class="button button6" >CONTACT US</button></a>
+<a href="feedback.html" target="f"><button class="button button7" >FEEDBACK</button></a>
+<a href="about.html" target="f"><button class="button button8" >ABOUT US</button></a>
+<a href="career.html" target="f"><button class="button button9" >CAREER@SCH</button></a>
+<a href="ask.html" target="f"><button class="button button10" >ASK A QUESTION</button></a>
+<br>
+
+<center><img src="sc4.jpg" height="300" width=""></center><br>
+<article><big><h1>STARLING CITY HOSPITAL<h1></big></article></p>Worlds best multispeciality hospital now in INDIA. 
+Key services offered include Cardiology, Cardiac Surgery, Neurosurgery, Nephrology, Obstetrics & Gynaecology, 
+Paediatrics, Medical Gastroenterology, Orthopaedics, General Medicine and General Surgery. Equipped with a 
+state-of-the-art Cath Lab the specialists save lives of many a people who experience heart attack and the emergency 
+department offer critical care to patients with compassion. With the infrastructure to handle high risk pregnancies 
+and premature babies, the unit has six neonatal intensive care units. Apart from a full-fledged laboratory and 
+diagnostic services, the Radiology & Imaging department is equipped with CT scan, MRI, X-Ray, Ultrasound & Doppler. 
+Round-the-clock Accident & Emergency, Critical Care & Pharmacy are available as well as a 19 bed Dialysis unit 
+offers round-the-clock dialysis services.</p>
+
+<footer>Copyright &copy;Starling City Hospital | New York</footer>
+</body></html>
